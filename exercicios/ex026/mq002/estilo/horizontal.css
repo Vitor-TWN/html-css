@@ -6,3 +6,8 @@ body {
     background-image: url(../img/cev-landscape.jpg);
     background-position: left bottom;
 }
+
+h1 {
+    text-align: center;
+    background-color: rgb(49, 85, 196);
+}
