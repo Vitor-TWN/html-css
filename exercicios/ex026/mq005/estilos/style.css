@@ -39,7 +39,7 @@ header > h1 {
 }
 
 menu {
-    display: none;
+    display: block;
 }
 
 menu > ul {
